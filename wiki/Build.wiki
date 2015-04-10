@@ -61,6 +61,9 @@ The pdfium_test program supports reading, parsing, and rasterizing the pages of 
 out/Debug/pdfium_test --ppm path/to/myfile.pdf
 }}}
 
+==Waterfall==
+The current health of the source tree can be found at http://build.chromium.org/p/client.pdfium/console
+
 ==Branches==
 There is a branch for a forthcoming feature called XFA that you can get by following the steps above, then:
 {{{
